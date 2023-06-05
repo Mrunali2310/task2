@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+  <div class="header">
+  
+    <div class="sel-content">
+      <select>
+    <option>EN</option>
+    <option>IND</option>
+  </select>
+  <select>
+    <option>USD</option>
+    <option>IND</option>
+  </select>
+    </div>
+    <div class="profile">Myprofile  </div>
+      <div class="profileicon">
+      <img src="assets/profile_close_2.png">
+    </div>
+    <div class="cart">
+      <img src="assets/Cart.png">
+    </div>
+    <div class="item" > Items</div>
+    <div class="item2">$0.00</div>
+    <div class="ping">
+      <img src="assets/search-icon.png">
+    </div>
+  </div>
+  <div class="header2">
+    <div class="hot">Home</div>
+    <div class="home">Hot Deal</div>
+  </div>
+  <div class="sidebar">
+    <div class="deals">HotDeals</div>
+    <div class="nike">Nike</div>
+    <div class="amazon">Amazon</div>
+    <div class="Adidas">Adidas</div>
+    <div class="Vans">Vans</div>
+    <div class="nike1">Nike</div>
+    <div class="AllStars">AllStars</div>
+    <div class="Adidas1">Adidas</div>
+  </div>
+  <div class="sidebar2">
+    <div class="PRICES">PRICES</div>
+    <div class="Ranger ">Ranger: </div>
+    <div class="range">$13.99-$25.99</div>
+    <div class="slider">
+      <img src="assets/slider.png">
+    </div>
+  </div>
+  <div class="sidebar3">
+    <div class="col">COLOR</div>
+
+    <div class="col8">
+      <img src="assets/colors.png">
+    </div>
+  </div>
+  <div class="sidebar4">
+    <div class="brand">BRAND</div>
+   <div class="nik3">Nike</div>
+   <div class="nik4">Nike</div>
+   <div class="Adidas3">Adidas</div>
+   <div class="Siemens">Siemens</div>
+  </div>
+  <div class="sidebar5">
+    <div class="more">MORE</div>
+  </div>
+  <div class="imagepic">
+    <img src="assets/Group 493.png">
+  </div>
+  <div class="vertdiv2">
+    <img src="assets/Group 491.png">
+  </div>
+  <div class="home2">HOME</div>
+ 
+  <div class="bag">
+
+  
+   
+    <a routerLink="bag">BAGS</a>
+  
+
+  </div>
+  <div class="SNEAKERS">SNEAKERS</div>
+  <div class="BELT">BELT</div>
+  <div class="CONTACT">CONTACT</div>
+  <div class="divbar">
+    <div class="itemss">13Items</div>
+    <div class="SortBy">SortBy</div>
+    <div class="Name">
+    <div class="Name">
+      <select>
+    <option>Name</option>
+    <option>Age</option>
+    <option>DOB</option>
+  </select>
+</div>
+    </div>
+    <diV class="Show">Show</diV>
+    <div class="show2">
+      <select>
+        <option>12</option>
+        <option>22</option>
+        <option>30</option>
+      </select>
+    </div>
+    <div class="switch">
+      <img src="assets/switch (1).png">
+    </div>
+    <div class="switch1">
+      <img src="assets/switch (2).png">
+    </div>
+  </div>
+  <div >
+    <tr class="row0">
+
+    <ng-container *ngFor="let item of UserData">
+      <tr>
+        <td>
+          <div class="imggg">
+         <img [src]="item.image"> 
+        </div> 
+        <div class="imggg1">
+          <img [src]="item.image1"> 
+         </div> 
+         <div class="imggg2">
+          <img [src]="item.image2"> 
+         </div> 
+         <div class="imggg3">
+          <img [src]="item.image3"> 
+         </div> 
+         <div class="imggg4">
+          <img [src]="item.image4">
+        </div>
+        <div class="imggg5">
+          <img [src]="item.image5">
+        </div>
+        <div class="imggg6">
+          <img [src]="item.image6">
+        </div>
+        <div class="imggg7">
+          <img [src]="item.image7">
+        </div>
+        <div class="imggg8">
+          <img [src]="item.image8">
+        </div>
+         
+      </tr>
+    </ng-container>
+  </div>
+  
+    <div class="base">
+
+      <a class="base1"  href="#" routerLink="base">1</a>
+      <a  class="base2" href="#">2</a>
+      <a  class="base3"class="active" href="#">3</a>
+      <a class="base4" href="#">4</a>
+      <a  class="base5"href="#">5</a>
+      <a class="base6" href="#">6</a>
+      
+    </div>
+ 
+  </body>
+</html>
+<router-outlet></router-outlet> 

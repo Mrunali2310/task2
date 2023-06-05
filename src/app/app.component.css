@@ -1,0 +1,949 @@
+.header{
+
+    
+    left: 0.21%;
+    right: -0.24%;
+   
+    bottom: 70.4%;
+    height: 42px;
+width: 1500.3878173828125px;
+left: 3.21044921875px;
+top: 32.52777099609375px;
+border-radius: 0px;
+
+
+}
+.en{
+   
+    left: 7.15%;
+    right: 91.12%;
+    top: 1.21%;
+    bottom: 97.95%;
+    
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 300;
+    font-size:15px;
+    line-height: 24px;
+    
+    color: #262626;
+    
+}
+.usd{
+  position: absolute;
+    left: 4.57%;
+    right: 86.76%;
+    top: 1.21%;
+    bottom: 97.95%;
+    
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 24px;
+    
+    color: #22262A;
+    
+}
+.profile{
+    
+position: absolute;
+left: 73.11%;
+right: 26.09%;
+top: 2.15%;
+bottom: 98.01%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+line-height: 24px;
+
+color: #262626;
+
+}
+.profileicon{
+ position: absolute;
+left: 70.34%;
+right: 32.32%;
+top: 2.40%;
+bottom: 98.08%;
+
+background: #22262A;
+}
+.cart{
+    position: absolute;
+left: 78.84%;
+right: 21.16%;
+top: 0%;
+bottom: 97.19%;
+
+
+}
+.item{
+    position: absolute;
+left: 83.79%;
+right: 16.68%;
+top: 2.14%;
+bottom: 98.02%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #262626;
+
+}
+.item2{
+    position: absolute;
+    left: 88.45%;
+    right: 11.08%;
+    top: 2.17%;
+    bottom: 97.99%;
+    
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #262626;
+    
+    opacity: 0.5;
+}
+.ping{
+    
+position: absolute;
+left: 92.49%;
+right: 9.11%;
+top: 2.21%;
+bottom: 98.06%;
+
+
+}
+.header2{
+    position: absolute;
+left: -0.03%;
+right: 0%;
+top: 14.72%;
+bottom: 91.5%;
+height: 51px;
+width: 1500px;
+
+background: #F6F7F8;
+opacity: 0.5;
+}
+.hot{
+    position: absolute;
+left: 41%;
+right: 51.8%;
+top: 19.23%;
+bottom: 92%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #33A0FF;
+
+}
+.home{
+    position: absolute;
+left: 44.67%;
+right: 45.67%;
+top: 19.23%;
+bottom: 92%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #262626;
+
+}
+.sidebar{
+    
+position: absolute;
+left: 2.86%;
+right: 75.14%;
+top: 24.24%;
+bottom: 76.8%;
+height: 160px;
+width: 150px;
+
+background: #F6F7F8;
+}
+.sidebar2{
+    
+position: absolute;
+left: 2.86%;
+right: 75.14%;
+top: 47.25%;
+bottom: 70.72%;
+height: 90px;
+width: 150px;
+
+background: #F6F7F8;
+}
+.sidebar3{
+    position: absolute;
+left: 2.86%;
+right: 75.14%;
+top:60.33%;
+bottom: 65.37%;
+height: 90px;
+width: 150px;
+
+background: #F6F7F8;
+}
+.sidebar4{
+    
+position: absolute;
+left: 2.86%;
+right: 75.14%;
+top: 73.68%;
+bottom: 55.76%;
+height: 115px;
+width: 150px;
+
+background: #F6F7F8;
+}
+.sidebar5{
+    position: absolute;
+left: 2.86%;
+right: 75.14%;
+top: 90.29%;
+bottom: 52.75%;
+height: 56px;
+width: 150px;
+
+background: #F6F7F8;
+}
+.deals{
+    position: absolute;
+left: 8.2%;
+right: 86.07%;
+top: .9%;
+bottom: 88.16%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #22262A;
+
+}
+.nike{
+    
+position: absolute;
+left: 8.2%;
+right: 89.34%;
+top: 15.72%;
+bottom: 86.51%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #262626;
+
+}
+.amazon{
+    position: absolute;
+left: 7.2%;
+right: 88.14%;
+top: 26.19%;
+bottom: 85.05%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #33A0FF;
+
+}
+.nike1{
+    position: absolute;
+left: 8.2%;
+right: 89.34%;
+top: 39.65%;
+bottom: 83.58%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #262626;
+
+}
+.Adidas{
+    position: absolute;
+left: 7.2%;
+right: 88.14%;
+top: 52.12%;
+bottom: 82.11%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #262626;
+
+}
+.Vans{
+    position: absolute;
+left: 7.2%;
+right: 89.2%;
+top: 63.59%;
+bottom: 80.64%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #262626;
+
+}
+.AllStars{
+    position: absolute;
+    left: 7.2%;
+    right: 87.54%;
+    top: 75.06%;
+    bottom: 79.17%;
+    
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+
+    
+    
+    color: #262626;
+    
+}
+.Adidas1{
+    position: absolute;
+left: 7.2%;
+right: 88.14%;
+top: 85.53%;
+bottom: 77.71%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #262626;
+}
+.PRICES{
+    position: absolute;
+left: 7.2%;
+right: 87.67%;
+top: 7.92%;
+bottom: 74.14%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 27px;
+
+
+
+color: #22262A;
+
+}
+.Ranger{
+    position: absolute;
+    left: 7.2%;
+    right: 87.74%;
+    top: 32.56%;
+    bottom: 72.67%;
+    
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+
+    
+    
+    color: #262626;
+    
+}
+.range{
+    position: absolute;
+left: 40.36%;
+right: 76.3%;
+top: 33.56%;
+bottom: 72.67%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #22262A;
+
+
+}
+.slider img{
+    position: absolute;
+left: 5.2%;
+right: 76.07%;
+top: 67.89%;
+bottom: 71.69%;
+width: 130px;
+height: 10px;
+}
+.col{
+    position: absolute;
+left: 8.2%;
+right: 87.67%;
+top: 7%;
+bottom: 68.06%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 27px;
+
+
+
+color: #22262A;
+}
+
+.col8 img{
+    position: absolute;
+left: 2.4%;
+right: 76.47%;
+top: 42.68%;
+bottom: 66.42%;
+width: 140px;
+
+}
+.brand{
+    position: absolute;
+left: 8.2%;
+right: 87.74%;
+top: 0.35%;
+bottom: 62.71%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 27px;
+
+
+
+color: #22262A;
+
+}
+.nik3{
+    position: absolute;
+left: 8.2%;
+right: 89.34%;
+top: 19.16%;
+bottom: 61.07%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #262626;
+
+}
+.nik4{
+    position: absolute;
+left: 8.2%;
+right: 89.34%;
+top: 39.63%;
+bottom: 59.6%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #33A0FF;
+
+}
+.Adidas3{
+    
+position: absolute;
+left: 8.2%;
+right: 88.14%;
+top: 58.1%;
+bottom: 58.13%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #262626;
+
+
+}
+.Siemens{
+    position: absolute;
+left: 8.2%;
+right: 87.27%;
+top: 75.57%;
+bottom: 56.66%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+
+
+
+color: #262626;
+
+}
+.more{
+    position: absolute;
+left: 25.54%;
+right: 82.79%;
+top: 45.96%;
+bottom: 53.31%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 21px;
+
+
+
+color: #262626;
+
+}
+.imagepic img{
+    position: absolute;
+left: 13.94%;
+right: 8.95%;
+top: 21.11%;
+bottom: 79.28%;
+height: 192px;
+width: 1230px;
+}
+.vertdiv2{
+    position: absolute;
+left: 0.1%;
+right: 84.14%;
+top: 6.82%;
+bottom: 94.64%;
+
+}
+.home2{
+    position: absolute;
+left: 33.93%;
+right: 59.4%;
+top: 7.82%;
+bottom: 94.92%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+
+
+color: #40BFFF;
+
+}
+.bag{
+    position: absolute;
+left: 47.12%;
+right: 48.54%;
+top: 7.82%;
+bottom: 94.92%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+
+
+color: #262626;
+
+}
+.SNEAKERS{
+    position: absolute;
+left: 58.98%;
+right: 34.08%;
+top: 7.82%;
+bottom: 94.92%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+
+
+color: #262626;
+
+}
+.BELT{
+    position: absolute;
+left: 76.44%;
+right: 24.09%;
+top: 7.82%;
+bottom: 94.92%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+
+
+color: #262626;
+
+}
+.CONTACT{
+    position: absolute;
+left: 86.43%;
+right: 9.7%;
+top: 7.82%;
+bottom: 94.92%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+
+
+color: #262626;
+
+}
+.divbar{
+    position: absolute;
+left: 13.94%;
+right: 8.95%;
+top: 49.53%;
+bottom: 20.45%;
+width: 1233px;
+height: 58px;
+
+background: #F6F7F8;
+}
+.itemss{
+    position: absolute;
+left: 1.43%;
+right: 67.76%;
+top: 22.22%;
+bottom: 77.11%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #22262A;
+
+}
+.SortBy{
+    position: absolute;
+left: 11.43%;
+right: 61.14%;
+top: 22.22%;
+bottom: 77.11%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #22262A;
+
+}
+.Name{
+    position: absolute;
+left: 19.86%;
+right: 56.31%;
+top: 22.26%;
+bottom: 77.08%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #22262A;
+
+}
+.Show{
+    position: absolute;
+left: 32.03%;
+right: 45.29%;
+top: 22.22%;
+bottom: 77.11%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #22262A;
+
+}
+.show2 {
+    position: relative;
+left: 43.66%;
+right: 42.34%;
+top: 22.26%;
+bottom: 77.08%;
+width: 42px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #22262A;
+
+}
+.switch img{
+    position: absolute;
+left: 90.04%;
+right: 13.67%;
+top: 1.75%;
+bottom: 77.11%;
+height: 54px;
+width: 52.42px;
+
+}
+.switch1 {
+    
+    position: absolute;
+    left: 40.36%;
+    right: 8.95%;
+    top: 21.53%;
+    bottom: 76.45%;
+    
+    background: #F1F3F4;
+    opacity: 0;
+}
+table {
+
+    border: none;
+
+    width: 100%;
+
+    border-collapse: collapse;
+  
+ 
+
+}
+
+
+th,
+td {
+
+    height: 50px;
+
+    text-align: center;
+    color: #8392AB;
+
+    font-family: 'Open Sans';
+
+} 
+.imggg img {
+    position: absolute;
+left: 13.94%;
+right: 52.99%;
+top: 59.56%;
+bottom: 61.88%;
+
+}
+.imggg1{
+    position: absolute;
+left: 25.74%;
+right: 30.72%;
+top: 59.47%;
+bottom: 61.88%;
+}
+.imggg2 img{
+    position: absolute;
+left: 60.74%;
+right: 30.46%;
+top: 59.31%;
+bottom: 46.96%;
+}
+.imggg3 img{
+    position: absolute;
+    left: 13.94%;
+    right: 52.99%;
+    top: 119.31%;
+    bottom: 47.1%;
+    
+}
+.imggg4 img{
+    position: absolute;
+    left: 37.5%;
+    right: 52.99%;
+    top: 119.31%;
+    bottom: 47.1%;
+
+}
+.imggg5 img{
+    position: absolute;
+    left: 61.5%;
+    right: 52.99%;
+    top: 119.31%;
+    bottom: 47.1%;
+
+}
+.imggg6 img{
+    position: absolute;
+    left: 13.5%;
+    right: 52.99%;
+    top: 179.31%;
+    bottom: 47.1%;
+
+}
+.imggg7 img{
+    position: absolute;
+    left: 61.5%;
+    right: 52.99%;
+    top: 179.31%;
+    bottom: 47.1%;
+
+}
+.imggg8 img{
+    position: absolute;
+    left: 36.9%;
+    right: 52.99%;
+    top: 179.31%;
+    bottom: 47.1%;
+
+}
+.base1{
+    left: 290px;
+    position: absolute;
+}
+.base2{
+    left: 360px;
+    position: absolute;
+}
+
+
+.base4{
+    left: 520px;
+    position: absolute;
+}
+.base5{
+    left: 580px;
+    position: absolute;
+}
+.base6{
+    left: 640px;
+    position: absolute;
+}
+.base {
+    position: absolute;
+left: 56.54%;
+right: 8.29%;
+top: 38.84%;
+bottom: 29.2%;
+height: 56px;
+width: 1045.49951171875px;
+left: 198.150390625px;
+top: 1700.586181640625px;
+border-radius: 0px;
+
+
+background: #FAFAFB;
+}
+
+
+.base a {
+    color: black;
+   
+    
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+  }
+ 
+  .base a.active {
+    background-color: dodgerblue;
+    color: rgb(97, 96, 96);
+    left: 440px;
+    position: absolute;
+   
+  }
+  
+  
+  .base a:hover:not(.active) {background-color: #ddd;}
